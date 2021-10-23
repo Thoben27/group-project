@@ -30,6 +30,11 @@ main h2 {
     background-color: hotpink;
     padding: 3px;
 }
+.ben-style{
+    color: orange;
+    background-color: teal;
+    padding: 3x;
+}
 .jane-style {
     color: hotpink;
     background-color: black;
